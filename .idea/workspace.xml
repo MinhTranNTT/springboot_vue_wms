@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4ec1e18-626e-49f8-afd3-f16ecef127a8" name="默认变更列表" comment="期末考核项目-仓库管理系统完成-2023.1.4">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms-web" beforeDir="false" afterPath="$PROJECT_DIR$/wms-web" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/src/main/java/com/jishuqin/config/InterceptorConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/wms/src/main/java/com/jishuqin/config/InterceptorConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/src/main/java/com/jishuqin/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/wms/src/main/java/com/jishuqin/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/src/main/java/com/jishuqin/interceptors/JwtInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/wms/src/main/java/com/jishuqin/interceptors/JwtInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/src/main/java/com/jishuqin/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/wms/src/main/java/com/jishuqin/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/src/main/java/com/jishuqin/service/impl/GoodsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/wms/src/main/java/com/jishuqin/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/wms/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/wms/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/jishuqin/config/InterceptorConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/wms/target/classes/com/jishuqin/config/InterceptorConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/jishuqin/entity/RecordRes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/jishuqin/interceptors/JwtInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/wms/target/classes/com/jishuqin/interceptors/JwtInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/jishuqin/service/impl/GoodsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/wms/target/classes/com/jishuqin/service/impl/GoodsServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/mapper/RecordMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wms/target/classes/mapper/RecordMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/wms/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/wms/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/wms-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/wms/target/wms-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/wms-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/wms/target/wms-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/wms/src/main/java/com/jishuqin/config/CorsConfig.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/wms-web/src/components/goods/GoodsManage.vue" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/wms/src/main/java/com/jishuqin/config/InterceptorConfig.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/wms/src/main/java/com/jishuqin/controller/UserController.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/wms/src/main/java/com/jishuqin/controller/GoodsController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/wms-web/src/axios.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/wms-web/src/components/record/RecordManage.vue" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/wms/src/main/java/com/jishuqin/dto/RecordRes.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2IuDsQEplbgAOJJ9gcpNTAIKdU7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/code/JavaCode/springboot_vue_wms",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "D:\\code\\JavaCode\\springboot_vue_wms\\wms-web\\node_modules\\prettier",
+    "spring.configuration.checksum": "de715d4979bbe0a778bb9a23267dce51",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\JavaCode\springboot_vue_wms\wms-web\src\components\user" />
+      <recent name="D:\code\JavaCode\springboot_vue_wms\wms\src\main\java\com\jishuqin\util" />
+      <recent name="D:\code\JavaCode\springboot_vue_wms\wms-web\src\assets" />
+      <recent name="D:\code\JavaCode\springboot_vue_wms\wms-web\src\components\record" />
+      <recent name="D:\code\JavaCode\springboot_vue_wms\wms-web\src\components\goods" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\JavaCode\springboot_vue_wms" />
+      <recent name="D:\code\JavaCode\springboot_vue_wms\wms-web\src\components" />
+      <recent name="D:\code\JavaCode\springboot_vue_wms\wms-web\src\assets" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jishuqin.common" />
+      <recent name="com.jishuqin.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WmsApplication">
+    <configuration name="WmsApplicationTests.testBCrypt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jishuqin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jishuqin" />
+      <option name="MAIN_CLASS_NAME" value="com.jishuqin.WmsApplicationTests" />
+      <option name="METHOD_NAME" value="testBCrypt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WmsApplicationTests.testCheckPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jishuqin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jishuqin" />
+      <option name="MAIN_CLASS_NAME" value="com.jishuqin.WmsApplicationTests" />
+      <option name="METHOD_NAME" value="testCheckPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WmsApplicationTests.testCheckToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jishuqin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jishuqin" />
+      <option name="MAIN_CLASS_NAME" value="com.jishuqin.WmsApplicationTests" />
+      <option name="METHOD_NAME" value="testCheckToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WmsApplicationTests.testGetOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jishuqin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jishuqin" />
+      <option name="MAIN_CLASS_NAME" value="com.jishuqin.WmsApplicationTests" />
+      <option name="METHOD_NAME" value="testGetOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WmsApplicationTests.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jishuqin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jishuqin" />
+      <option name="MAIN_CLASS_NAME" value="com.jishuqin.WmsApplicationTests" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wms" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jishuqin.WmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/wms-web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.WmsApplicationTests.testBCrypt" />
+      <item itemvalue="JUnit.WmsApplicationTests.testLogin" />
+      <item itemvalue="JUnit.WmsApplicationTests.testGetOne" />
+      <item itemvalue="JUnit.WmsApplicationTests.testCheckToken" />
+      <item itemvalue="JUnit.WmsApplicationTests.testCheckPassword" />
+      <item itemvalue="npm.serve" />
+      <item itemvalue="Spring Boot.WmsApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WmsApplicationTests.testBCrypt" />
+        <item itemvalue="JUnit.WmsApplicationTests.testCheckPassword" />
+        <item itemvalue="JUnit.WmsApplicationTests.testCheckToken" />
+        <item itemvalue="JUnit.WmsApplicationTests.testGetOne" />
+        <item itemvalue="JUnit.WmsApplicationTests.testLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d4ec1e18-626e-49f8-afd3-f16ecef127a8" name="默认变更列表" comment="" />
+      <created>1671022783619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671022783619</updated>
+      <workItem from="1671022784864" duration="17000" />
+      <workItem from="1671022823782" duration="661000" />
+      <workItem from="1671023518991" duration="901000" />
+      <workItem from="1671026206921" duration="2791000" />
+      <workItem from="1671029049838" duration="1374000" />
+      <workItem from="1671100730905" duration="6823000" />
+      <workItem from="1671115359352" duration="116000" />
+      <workItem from="1671115511965" duration="1112000" />
+      <workItem from="1671117747686" duration="2612000" />
+      <workItem from="1671156506025" duration="12370000" />
+      <workItem from="1671195371517" duration="10179000" />
+      <workItem from="1671250594551" duration="5659000" />
+      <workItem from="1671264354873" duration="11269000" />
+      <workItem from="1671333086282" duration="20576000" />
+      <workItem from="1671359484029" duration="12705000" />
+      <workItem from="1671375359321" duration="3338000" />
+      <workItem from="1671379019378" duration="1744000" />
+      <workItem from="1671413861046" duration="1135000" />
+      <workItem from="1671418714604" duration="4000" />
+      <workItem from="1671422844749" duration="38942000" />
+      <workItem from="1671494700486" duration="4798000" />
+      <workItem from="1671503231450" duration="961000" />
+      <workItem from="1671504262576" duration="2000" />
+      <workItem from="1671580912369" duration="242000" />
+      <workItem from="1671606649438" duration="10460000" />
+      <workItem from="1671619082280" duration="20369000" />
+      <workItem from="1671680900393" duration="9421000" />
+      <workItem from="1671691118707" duration="55000" />
+      <workItem from="1671691218056" duration="9000" />
+      <workItem from="1671696512853" duration="15375000" />
+      <workItem from="1671761402139" duration="8715000" />
+      <workItem from="1671784134243" duration="7706000" />
+      <workItem from="1671800185570" duration="780000" />
+      <workItem from="1671859047093" duration="2078000" />
+      <workItem from="1671861466982" duration="1438000" />
+      <workItem from="1671865207263" duration="118000" />
+      <workItem from="1671893072313" duration="2083000" />
+      <workItem from="1671977469924" duration="628000" />
+      <workItem from="1671979482742" duration="225000" />
+      <workItem from="1672014530851" duration="1715000" />
+      <workItem from="1672016562168" duration="109000" />
+      <workItem from="1672016691060" duration="8577000" />
+      <workItem from="1672042629241" duration="11058000" />
+      <workItem from="1672060630407" duration="2512000" />
+      <workItem from="1672063811701" duration="963000" />
+      <workItem from="1672124519338" duration="19000" />
+      <workItem from="1672130383363" duration="51000" />
+      <workItem from="1672146180913" duration="481000" />
+      <workItem from="1672226541894" duration="1560000" />
+      <workItem from="1672284772622" duration="180000" />
+      <workItem from="1672308345762" duration="9146000" />
+      <workItem from="1672327114292" duration="3352000" />
+      <workItem from="1672361673464" duration="17372000" />
+      <workItem from="1672397128697" duration="12419000" />
+      <workItem from="1672409789155" duration="592000" />
+      <workItem from="1672412405492" duration="60000" />
+      <workItem from="1672451330659" duration="8744000" />
+      <workItem from="1672461048628" duration="5741000" />
+      <workItem from="1672470043466" duration="9123000" />
+      <workItem from="1672492009507" duration="2457000" />
+      <workItem from="1672537761727" duration="8496000" />
+      <workItem from="1672546969160" duration="6749000" />
+      <workItem from="1672578815051" duration="420000" />
+      <workItem from="1672626591491" duration="42000" />
+      <workItem from="1672628816161" duration="16148000" />
+      <workItem from="1672709910005" duration="10392000" />
+      <workItem from="1672796622847" duration="2169000" />
+      <workItem from="1672799689792" duration="85000" />
+      <workItem from="1672799840795" duration="77000" />
+      <workItem from="1672799967809" duration="78000" />
+      <workItem from="1672800710467" duration="1429000" />
+      <workItem from="1672802194940" duration="1955000" />
+      <workItem from="1672830567856" duration="56000" />
+      <workItem from="1672841633781" duration="1742000" />
+      <workItem from="1672882034471" duration="3825000" />
+      <workItem from="1672912471552" duration="100000" />
+      <workItem from="1673006666677" duration="28000" />
+      <workItem from="1673183883732" duration="623000" />
+      <workItem from="1673234818474" duration="223000" />
+      <workItem from="1674614655728" duration="59000" />
+      <workItem from="1674697616347" duration="59000" />
+      <workItem from="1674893857881" duration="87000" />
+      <workItem from="1674893977077" duration="62000" />
+      <workItem from="1675231796055" duration="367000" />
+      <workItem from="1675237881902" duration="5590000" />
+      <workItem from="1675245582712" duration="4626000" />
+      <workItem from="1675324875919" duration="274000" />
+      <workItem from="1675333654527" duration="630000" />
+      <workItem from="1675388518120" duration="48000" />
+      <workItem from="1675394010711" duration="1634000" />
+      <workItem from="1675938187137" duration="4362000" />
+      <workItem from="1681049934847" duration="4004000" />
+      <workItem from="1681129024804" duration="178000" />
+      <workItem from="1684919809852" duration="1291000" />
+      <workItem from="1685286191768" duration="789000" />
+      <workItem from="1685450493253" duration="11000" />
+      <workItem from="1685457443510" duration="243000" />
+      <workItem from="1685459616878" duration="49000" />
+      <workItem from="1686468375185" duration="55000" />
+      <workItem from="1686473108746" duration="4000" />
+    </task>
+    <task id="LOCAL-00001" summary="总体功能完成-12.20 还需在添加jwt安全管理 redis缓存管理">
+      <created>1671500922931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671500922931</updated>
+    </task>
+    <task id="LOCAL-00002" summary="总体功能完成-12.20 还需在添加jwt安全管理 redis缓存管理">
+      <created>1671501142188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671501142188</updated>
+    </task>
+    <task id="LOCAL-00003" summary="期末考核项目-仓库管理系统完成-2023.1.4">
+      <created>1672802347667</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672802347667</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/wms-web" />
+    </ignored-roots>
+    <MESSAGE value="总体功能完成-12.20 还需在添加jwt安全管理 redis缓存管理" />
+    <MESSAGE value="期末考核项目-仓库管理系统完成-2023.1.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="期末考核项目-仓库管理系统完成-2023.1.4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.web.util.NestedServletException" package="org.springframework.web.util" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39779684-64c8-46f6-91f7-18e8050df4db" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wms-web" beforeDir="false" afterPath="$PROJECT_DIR$/../wms-web" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jishuqin/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jishuqin/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jishuqin/config/InterceptorConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jishuqin/config/InterceptorConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jishuqin/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jishuqin/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jishuqin/interceptors/JwtInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jishuqin/interceptors/JwtInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jishuqin/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jishuqin/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jishuqin/service/impl/GoodsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jishuqin/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jishuqin/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jishuqin/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jishuqin/util/JwtUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jishuqin/util/JwtUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/WmsApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/WmsApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/common/CodeGenerator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/common/CodeGenerator$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/common/CodeGenerator$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/common/CodeGenerator$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/common/CodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/common/CodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/common/QueryPageParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/common/QueryPageParam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/common/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/common/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/config/CorsConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/config/CorsConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/config/InterceptorConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/config/InterceptorConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/config/MybatisPlusConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/config/MybatisPlusConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/config/RedisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/config/RedisConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/constant/JwtConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/constant/JwtConstant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/controller/GoodsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/controller/GoodsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/controller/GoodstypeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/controller/GoodstypeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/controller/MenuController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/controller/MenuController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/controller/RecordController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/controller/RecordController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/controller/StorageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/controller/StorageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/dto/LoginDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/dto/LoginDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/entity/Goods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/entity/Goods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/entity/Goodstype.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/entity/Goodstype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/entity/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/entity/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/entity/Record.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/entity/Record.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/entity/RecordRes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/entity/Storage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/entity/Storage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/interceptors/JwtInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/interceptors/JwtInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/mapper/GoodsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/mapper/GoodsMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/mapper/GoodstypeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/mapper/GoodstypeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/mapper/MenuMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/mapper/MenuMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/mapper/RecordMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/mapper/RecordMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/mapper/StorageMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/mapper/StorageMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/service/GoodsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/service/GoodsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/service/GoodstypeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/service/GoodstypeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/service/MenuService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/service/MenuService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/service/RecordService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/service/RecordService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/service/StorageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/service/StorageService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/service/impl/GoodsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/service/impl/GoodsServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/service/impl/GoodstypeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/service/impl/GoodstypeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/service/impl/MenuServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/service/impl/MenuServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/service/impl/RecordServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/service/impl/RecordServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/service/impl/StorageServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/service/impl/StorageServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/util/BCrypt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/util/BCrypt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/util/JwtUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/util/JwtUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jishuqin/util/RedisUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jishuqin/util/RedisUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/RecordMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/RecordMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/jishuqin/GoodsCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/jishuqin/WmsApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/wms-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/wms-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2R3AZ5ppi7T1pxcaoRW6VKP4YZd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/code/JavaCode/springboot_vue_wms",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="wms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jishuqin.WmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="39779684-64c8-46f6-91f7-18e8050df4db" name="更改" comment="" />
+      <created>1686468447345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686468447345</updated>
+      <workItem from="1686468449873" duration="6677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
